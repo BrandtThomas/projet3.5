@@ -4,6 +4,7 @@ Objectif :
 - Comprendre plusieurs fonctionnalitées en CSS
 - Maîtriser les pseudo-classes comme :nth-child
 - Maîtriser la propriété object-fit
+- Comprendre l'intérêt des svg
 
 Module 1 - Réaliser une interface utilisateur web statique et adaptable
 
